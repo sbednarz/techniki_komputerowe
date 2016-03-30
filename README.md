@@ -1,8 +1,8 @@
-# techniki_komputerowe
-** Materiały do zajęć z Technik Komputerowych w Inżynierii i Technologii Chemicznej **
+## techniki_komputerowe
+### Materiały do zajęć z Technik Komputerowych w Inżynierii i Technologii Chemicznej
 
 
-Plan zajęć:
+#### Plan zajęć:
 
 1. Grafika chemiczna (6)
 2. Wykresy (6)
@@ -11,13 +11,13 @@ Plan zajęć:
 5. Elementy analizy statystycznej danych (2)
 
 
-Aplikacje komputerowe:
+#### Aplikacje komputerowe:
 
 1: ChemSketch
 2-5: Jupyter Notebook + Python
 
 
 
-Zalecane matariały pomocnicze i uzupełniające:
+#### Zalecane matariały pomocnicze i uzupełniające:
 
 https://github.com/jrjohansson/scientific-python-lectures
