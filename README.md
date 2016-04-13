@@ -42,7 +42,7 @@ Dostęp do Jupyter Notebook:
 * na własnym komputerze [*instalacja Jupytera (w pakiecie Anaconda)*](https://www.continuum.io/downloads)
 * poprzez darmowe konto w serwisie [Wakari](https://www.wakari.io/)
 * poprzez stronę [Try Jupyter](https://try.jupyter.org/)
-* poprzez stronę [Tmp Jupyter](https:/tmpnb.org/) -- polecane
+* poprzez stronę [Tmp Jupyter](https://tmpnb.org/) ----- polecane
 
 
 Przykładowe notatniki (notebooki):
