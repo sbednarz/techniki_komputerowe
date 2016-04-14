@@ -1,0 +1,5 @@
+Dane + f(x)
+Dwie osie
+Log - log
+Dane z pliku: nakladanie, przesuwanie, skalowanie
+Wykresy slupkowe/kolowe
