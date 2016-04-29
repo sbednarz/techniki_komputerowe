@@ -1,5 +1,5 @@
-Dane + f(x)
-Dwie osie
-Log - log
-Dane z pliku: nakladanie, przesuwanie, skalowanie
-Wykresy slupkowe/kolowe
+Powtórka = 3 zadania:
+
+1) Kalibracja (dane + stat + napisy) - savefig/PL-fonts
+2) Serie z pliku (porównanie, nakładanie, skalowanie)
+3) Dane numeryczne (notatki) + "model"
