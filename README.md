@@ -57,5 +57,6 @@ Więcej o Pythonie/SciPy/NumPy:
 * [http://www.scipy-lectures.org/index.html](http://www.scipy-lectures.org/index.html)
 * ["Podręcznik nr 1" do zajęć](http://kitchingroup.cheme.cmu.edu/pycse/)
 * ["Podręcznik nr 2" do zajęć](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+* [http://www.python-course.eu/numpy.php](http://www.python-course.eu/numpy.php)
 
 
