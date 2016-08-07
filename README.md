@@ -51,6 +51,7 @@ Przykładowe notatniki (notebooki):
 * [Notatniki do 'papierowych' książek](http://tbc-python.fossee.in/completed-books/)
 
 
+
 Więcej o Pythonie/SciPy/NumPy:
 
 * [https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
